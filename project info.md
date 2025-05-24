@@ -35,5 +35,6 @@ Field          Type        Description
 
 ## Example
 GET /spots?country=Indonesia&difficulty=advanced
+
 Host: surfapi.example.com
 
